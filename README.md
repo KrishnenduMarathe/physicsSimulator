@@ -16,8 +16,21 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ## REQUIREMENTS
-his game requires you to have a C++ build environment installed on your computer.
+This game requires you to have a C++ build environment installed on your computer.
 (I personally used MingW-w64 to install gcc compiler for windows)
+
+It also requires Cmake and make installed. You can also install other programs like
+ninja that is compactble with cmake instead of make.
+
+## BUILD INSTRUCTIONS
+
+1. Download the zip ans unzip or clone the project
+2. Go to the downloaded directory
+3. Go in command prompt or Terminal and type following commands:
+4. mkdir build && cd build
+5. cmake ..
+6. make / ninja / whichever program you use
+7. ../physicsSimulator
 
 ## SCREENSHOTS
 ![alt_tag] ()
@@ -36,5 +49,5 @@ his game requires you to have a C++ build environment installed on your computer
 #####  S         =>    Move Down
 #####  D         =>    Move Right
 #####  `         =>    Exit Simulation
-#####  ?         =>    Display Debug Window
-#####  |         =>    Start Object Rotation (constant speed)
+#####  |         =>    Display Debug Window
+#####  ?         =>    Start Object Rotation (constant speed)
