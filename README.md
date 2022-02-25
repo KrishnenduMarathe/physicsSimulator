@@ -37,9 +37,6 @@ ninja that is compactble with cmake instead of make.
 
 ![alt_tag](https://github.com/KrishnenduMarathe/physicsSimulator/blob/main/Media/2.png)
 
-![alt_tag](https://github.com/KrishnenduMarathe/physicsSimulator/blob/main/Media/clip01.mkv)
-
-
 ## CONTROLS
 
 #### KEYS       ||    ACTION
