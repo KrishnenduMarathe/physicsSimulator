@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/physicsSimulator.dir/src/main.cpp.o CMakeFiles/physicsSimulator.dir/src/PhysicsEngine.cpp.o -o ../physicsSimulator  -pthread 
