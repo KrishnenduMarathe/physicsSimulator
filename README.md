@@ -1,5 +1,5 @@
 # PHYSICS SIMULATOR
-A Physics Simulation Engine for Terminal for Windows and Linux Platform.
+Physics Simulator TUI Engine with support for Gravity, Friction, Air Resistance, Rotation and Collision Detection for Windows and Linux Operating Systems
 
 ## LICENSE
 This program is free software: you can redistribute it and/or modify
